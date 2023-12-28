@@ -14,7 +14,6 @@ CaptureGem can be [found here](https://www.capturegem.com).
 * Auto-restart recordings after network timeouts or disconnects
 * Multi-threaded for high performance, with no limit on the number of live models you can record at once
 * Fully customizable settings, including video duration, network timeout, wait time variability, offline retry wait time, and error retry wait time
-* Records both VR and Non-VR streams in top quality resolution
 * Saves all videos into .mp4 format
 * Review and manage all your recordings! View auto-generated image grid screenshots, sort by model, review status, and add deletion protection
 * Direct links to model pages, and play and delete videos from inside app
