@@ -1,7 +1,5 @@
 # Chaturbate Recorder
 
-## Summary
-
 Record Chaturbate from your desktop with CaptureGem. CaptureGem is a user-friendly desktop app that is great for recording from Chaturbate, among other sites. Also it has a review feature which automatically generates image grid screenshots of all your recordings.
 The app is supported on Windows and macOS.
 
@@ -34,4 +32,4 @@ You can read [more here](https://www.capturegem.com) about CaptureGem.
 
 ## Discord
 
-Feel free to [join our friendly Discord community](https://discord.gg/HycTXz8GvA) if you have any questions or wish to learn more.
+Feel free to [join our Discord community](https://discord.gg/HycTXz8GvA) if you have any questions or wish to learn more.
